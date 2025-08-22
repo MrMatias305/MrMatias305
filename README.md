@@ -8,7 +8,6 @@
 
 ## 🚀 About me
 
----
 I'm an undergraduate student and a self-taught learner passionate about AI, Machine Learning, and Data Science. I love 
 diving deeper into data, building models, and turning new ideas into real-world solutions with a main goal to 
 grow as an AI engineer. Always learning and experimenting.
